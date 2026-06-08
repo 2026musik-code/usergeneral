@@ -1,0 +1,6 @@
+{
+  "name": "USER GENERAL",
+  "description": "VLESS WebSocket proxy configuration and Cloudflare Pages deployment manager.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

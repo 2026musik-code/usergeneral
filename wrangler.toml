@@ -1,0 +1,6 @@
+name = "vless-worker-node"
+main = "src/worker.js"
+compatibility_date = "2024-03-04"
+
+# This exposes the worker's socket feature
+# which is inherently supported by newer compatibility dates.
